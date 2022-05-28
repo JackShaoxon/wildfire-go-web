@@ -1,1 +1,1 @@
-# wildfire_go
+# wildfire-go-web
